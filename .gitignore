@@ -1,0 +1,8 @@
+# Ignore Obsidian User Settings
+.obsidian/
+
+# Ignore Executables
+src/*.exe
+
+# Ignore Object Files
+src/*.o
