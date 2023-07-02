@@ -6,3 +6,6 @@ src/*.exe
 
 # Ignore Object Files
 src/*.o
+
+# Godot 4+ specific ignores
+.godot/
